@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Network+Engineer+%7C+Systems+Developer+%7C+Protocol+Tamer;Coding+low-level+since+before+coffee;Debugging+is+my+meditation;Packets+never+lie." alt="Typing SVG" />
 </p>
 
-<h1 align="center">⚡ Hey, I'm <span style="color:#00f7ff;">Network NortherHush</span></h1>
+<h1 align="center">⚡ Hey, I'm <span style="color:#00f7ff;">Network Wienton</span></h1>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
